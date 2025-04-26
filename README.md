@@ -23,6 +23,7 @@ raspap-multi-ap/
   - Two USB WiFi dongles (`wlan1`, `wlan2`) — [USB WiFi Dongle on AliExpress](https://s.click.aliexpress.com/e/_opmgjI1)
 - **Software:**
   - [RaspAP Installed](https://docs.raspap.com/) (for hostapd, DNS, DHCP)
+  - [Follow the semi-official guide to set up two APs](https://github.com/RaspAP/raspap-docs/blob/310aa02fc135ed471d1901ad0d057672a2af9cea/docs/multiple.md). This is not enough to get it to work, but something you need to do first to start.
 
 > I can’t recommend the Argon One SSD Case enough — booting from an SSD is significantly faster and more reliable than using an SD card. Likewise, these USB WiFi dongles just work out of the box (no driver tweaks) and deliver blazing‑fast WiFi 6E performance.
 
